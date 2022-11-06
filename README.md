@@ -22,7 +22,7 @@
             </footer>
             <img src="1.jfif" width="170px" height="170px">
             <p></p>
-            <a href="https://download2389.mediafire.com/fsfpq2ontylg/zewdn4bwto9qf1j/Minecraft.apk"><button class="1">انقر للتحميل </button></a>
+            <a href="http://www.mediafire.com/file/zewdn4bwto9qf1j/Minecraft.apk"><button class="1">انقر للتحميل </button></a>
         </fieldset>
         <hr>
         <hr>
