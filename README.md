@@ -54,10 +54,7 @@
         <br>
         <ruby>
             <rt></rt>  <rb> <h3>جميع الحقوق محفوضه & متجر العاب </h3>
-  
-           <rt></rt>
-
-        </ruby>
+            </ruby>
     </center>
 
 </body>
