@@ -53,8 +53,7 @@
         <hr>
         <br>
         <ruby>
-            <rt></rt>  <rb> <h3>&جميع الحقوق محفوضه</h3>
-                <a href="https://starkm7m.github.io/storeplay/"><button><h2>متجر الالعاب</h2></rb></button>  <p></p> <p></p>      </a>
+            <rt></rt>  <rb> <h3>جميع الحقوق محفوضه & متجر العاب </h3>
   
            <rt></rt>
 
