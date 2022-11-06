@@ -50,12 +50,9 @@
             <p></p>
             <a href="https://bit.ly/3T3b3ag"><button class="3">انقر للتحميل </button></a>
         </fieldset>
-        <hr>
-        <br>
-        <ruby>
-            <rb> <h3>جميع الحقوق محفوضه & متجر العاب </h3> </rb>
+                <rb> <h3>جميع الحقوق محفوضه & متجر العاب </h3> </rb>
            
-</ruby>
+
 </center>
 </body>
 </html>
