@@ -22,7 +22,7 @@
             </footer>
             <img src="1.jfif" width="170px" height="170px">
             <p></p>
-            <a href="http://www.mediafire.com/file/zewdn4bwto9qf1j/Minecraft.apk"><button class="1">انقر للتحميل </button></a>
+            <a href="https://bit.ly/3NLfTbe"><button class="1">انقر للتحميل </button></a>
         </fieldset>
         <hr>
         <hr>
@@ -35,7 +35,7 @@
             </footer>
             <img src="3.png" width="170px" height="170px">
             <p></p>
-            <a href="https://www.mediafire.com/download/lqsiguld30ez393"><button class="2">انقر للتحميل </button></a>
+            <a href="https://bit.ly/3UtBMxP"><button class="2">انقر للتحميل </button></a>
         </fieldset>
         <hr>
         <hr>
@@ -48,7 +48,7 @@
             </footer>
             <img src="4.jfif" width="170px" height="170px">
             <p></p>
-            <a href="https://www.mediafire.com/download/1u88ruftmoaqj95"><button class="3">انقر للتحميل </button></a>
+            <a href="https://bit.ly/3T8DuU8"><button class="3">انقر للتحميل </button></a>
         </fieldset>
         <hr>
         <br>
