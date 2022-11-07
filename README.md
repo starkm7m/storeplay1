@@ -22,7 +22,7 @@
             </footer>
             <img src="1.jfif" width="170px" height="170px">
             <p></p>
-            <a href="https://download2389.mediafire.com/kp5woy4w5zlg/xq2b9in6knsi3qs/%D9%85%D9%8A%D9%86+%D9%83%D8%B1%D9%81%D8%AA%D9%A3.apk"><button class="1">انقر للتحميل </button></a>
+            <a href="https://www.mediafire.com/file/70xdid9aa8dnmdf/%25D9%2585%25D9%258A%25D9%2586_%25D9%2583%25D8%25B1%25D9%2581%25D8%25AA.apk/file"><button class="1">انقر للتحميل </button></a>
         </fieldset>
         <hr>
         <hr>
