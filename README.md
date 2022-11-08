@@ -1,7 +1,3 @@
-#سف
-#STOREPLAY
-
-
 <html>
 
 <head>
